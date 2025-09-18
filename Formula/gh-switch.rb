@@ -1,10 +1,10 @@
 class GhSwitch < Formula
   desc "Switch between multiple GitHub accounts instantly"
   homepage "https://github.com/sisobus/gh-switch"
-  url "https://github.com/sisobus/gh-switch/archive/refs/tags/v1.0.4.tar.gz"
-  sha256 "50821d7eaaa2213c952aff045b40326a6914db5245914ba1942e176f6d00537a"
+  url "https://github.com/sisobus/gh-switch/archive/refs/tags/v1.0.5.tar.gz"
+  sha256 "d0e2e1a00d517847bbc64694eab8f6cfcff71bc63df3aece2d050b226d3eaf27"
   license "MIT"
-  version "1.0.4"
+  version "1.0.5"
 
   depends_on "gh"
   depends_on "git"
