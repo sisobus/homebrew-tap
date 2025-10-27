@@ -2,7 +2,7 @@ class Cchistory < Formula
   desc "Interactive CLI tool to browse Claude Code conversation history"
   homepage "https://github.com/sisobus/claude-code-conversation-history"
   url "https://github.com/sisobus/claude-code-conversation-history/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "PLACEHOLDER_SHA256"  # Will be updated by release.sh
+  sha256 "0629691c5fd126c19be8ec4449f5d15041ae9aee48ba15f952c46bba4003fb0f"
   license "MIT"
   version "1.0.1"
 
