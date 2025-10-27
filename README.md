@@ -10,15 +10,40 @@ brew tap sisobus/tap
 
 ## Available Formulas
 
+### cchistory
+
+Interactive CLI tool to browse Claude Code conversation history.
+
+```bash
+# Install
+brew install cchistory
+
+# Or install with tap prefix
+brew install sisobus/tap/cchistory
+```
+
+After installation, run:
+```bash
+cchistory  # Launch the interactive viewer
+```
+
+Features:
+- Browse all Claude Code projects
+- View conversations with timestamps (newest first)
+- Pagination support for large lists
+- No external dependencies
+
+For more information, see [claude-code-conversation-history repository](https://github.com/sisobus/claude-code-conversation-history).
+
 ### gh-switch
 
 Switch between multiple GitHub accounts instantly.
 
 ```bash
 # Install
-brew install sisobus/tap/gh-switch
+brew install gh-switch
 
-# Or install directly
+# Or install with tap prefix
 brew install sisobus/tap/gh-switch
 ```
 
