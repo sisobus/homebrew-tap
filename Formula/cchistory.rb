@@ -1,4 +1,4 @@
-class ClaudeHistory < Formula
+class Cchistory < Formula
   desc "Interactive CLI tool to browse Claude Code conversation history"
   homepage "https://github.com/sisobus/claude-code-conversation-history"
   url "https://github.com/sisobus/claude-code-conversation-history/archive/refs/tags/v1.0.0.tar.gz"
@@ -33,6 +33,6 @@ class ClaudeHistory < Formula
   end
 
   test do
-    assert_match "claude-history version", shell_output("#{bin}/cchistory --version")
+    assert_match "cchistory version", shell_output("#{bin}/cchistory --version")
   end
 end
