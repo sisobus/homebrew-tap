@@ -1,10 +1,10 @@
 class Cchistory < Formula
   desc "Interactive CLI tool to browse Claude Code conversation history"
   homepage "https://github.com/sisobus/claude-code-conversation-history"
-  url "https://github.com/sisobus/claude-code-conversation-history/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "0629691c5fd126c19be8ec4449f5d15041ae9aee48ba15f952c46bba4003fb0f"
+  url "https://github.com/sisobus/claude-code-conversation-history/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "a8669e36630fe76bbb5cfb36bf5285eedd67f122356242ed6462f5f435c6406e"
   license "MIT"
-  version "1.0.1"
+  version "1.0.2"
 
   depends_on "python@3.9"
 
