@@ -2,7 +2,7 @@ class Cohistory < Formula
   desc "Interactive CLI tool to browse Codex conversation history"
   homepage "https://github.com/sisobus/codex-conversation-history"
   url "https://github.com/sisobus/codex-conversation-history/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "c275aee96ee5defbfd47716d9c4dffdeb1f5fd1ec57bf5b6bf83ea69f2efd772"
   license "MIT"
   version "1.0.0"
 
