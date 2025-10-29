@@ -1,10 +1,10 @@
 class Cohistory < Formula
   desc "Interactive CLI tool to browse Codex conversation history"
   homepage "https://github.com/sisobus/codex-conversation-history"
-  url "https://github.com/sisobus/codex-conversation-history/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "c275aee96ee5defbfd47716d9c4dffdeb1f5fd1ec57bf5b6bf83ea69f2efd772"
+  url "https://github.com/sisobus/codex-conversation-history/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "3fb884c290eb9a9dcc5fb124e8f49e6d641ae80ed3abe6b32f82bee9aa9f9b2d"
   license "MIT"
-  version "1.0.0"
+  version "1.0.1"
 
   depends_on "python@3.9"
 
